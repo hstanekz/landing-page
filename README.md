@@ -1,4 +1,4 @@
-# landing-page
+# landing-page: https://hstanekz.github.io/landing-page/
 Project made from using html and css. My main goal being to display proficiency in flexbox. This serves as a template so additions could be made to it further down the road.
 
 coffee-logo.png from:
